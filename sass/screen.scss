@@ -1,0 +1,13 @@
+/* Welcome to Compass. */
+@import "compass/reset";
+@import "framework/*";
+@import "vendor/*";
+@import "framework/*";
+
+
+body {
+	background:#333;
+	@media(max-width:$tablet) {
+		background:#777;
+	}
+}

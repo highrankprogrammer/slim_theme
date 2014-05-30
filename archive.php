@@ -15,6 +15,9 @@
  */
 ?>
 <?php get_header(); ?>
+<section>
+
+	</section>
 
 <?php if ( have_posts() ): ?>
 

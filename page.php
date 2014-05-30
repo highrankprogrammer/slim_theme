@@ -17,6 +17,8 @@
 <?php get_header(); ?>
 
 
-	
+	<div class="internal_content">
+
+	</div>
 
 <?php get_footer(); ?>

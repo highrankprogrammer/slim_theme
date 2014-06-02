@@ -17,7 +17,7 @@
 <?php get_header(); ?>
 <section>
 
-	</section>
+</section>
 
 <?php if ( have_posts() ): ?>
 
